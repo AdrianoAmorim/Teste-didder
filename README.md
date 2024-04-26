@@ -1,4 +1,6 @@
-Este é um teste simples para uma vaga de frontend. O aplicativo foi desenvolvido utilizando as seguintes tecnologias:
+Projeto foi criado para atender um CRUD pedido no teste de uma vaga de frontend.
+
+O aplicativo foi desenvolvido utilizando as seguintes tecnologias:
 
 - React native
 -  TypeScript
@@ -11,8 +13,5 @@ Este é um teste simples para uma vaga de frontend. O aplicativo foi desenvolvid
 - ESLint
 - Prettier e outras libs...
 
-## Como executar o aplicativo
-
-1. Clone este repositório para o seu computador:
 
 
